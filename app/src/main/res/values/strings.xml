@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Basic Information</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- MENU -->
+    <string name="toolbar_setting">Setting</string>
+    <string name="toolbar_search">Search</string>
+
+    <string name="label_camera">Camera</string>
+    <string name="label_gallery">Gallery</string>
+
+
+    <!--Validation -->
+    <string name="label_search">Search</string>
+    <string name="hint_search">Search</string>
+    <string name="validation_search">Search</string>
+
+
+    <string name="form_login">Login</string>
+    <string name="form_register_user">Register user</string>
+    <string name="form_change_password">Change Password</string>
+
+    <string name="logoutb">Logout</string>
+    <string name="okb">OK</string>
+    <string name="yesb">Yes</string>
+    <string name="cancelb">Cancel</string>
+    <string name="doneb">Done</string>
+
+    <string name="logoutm">Do you want to logout?</string>
+
+    <!-- Network Validation -->
+    <string name="networkceck">Check the connection!</string>
+
+    <string name="label_username">Username</string>
+    <string name="hint_username">Username</string>
+    <string name="validation_username">Username not valid.</string>
+    <string name="length_username">Username at least 3 character.</string>
+
+    <string name="label_firstname">Firstname</string>
+    <string name="hint_firstname">Firstname</string>
+    <string name="validation_firstname">Firstname not valid.</string>
+    <string name="length_firstname">Firstname at least 3 character.</string>
+
+    <string name="label_lastname">Lastname</string>
+    <string name="hint_lastname">Lastname</string>
+    <string name="validation_lastname">Lastname not valid.</string>
+    <string name="length_lastname">Lastname at least 3 character.</string>
+
+    <string name="label_email">Email</string>
+    <string name="hint_email">Email</string>
+    <string name="validation_email">Email not valid.</string>
+
+    <string name="label_password">Password</string>
+    <string name="hint_password">Password</string>
+    <string name="validation_password">Password not valid.</string>
+    <string name="length_password">Password at least 6 character.</string>
+
+    <string name="label_current_password">Current password</string>
+    <string name="hint_current_password">Current password</string>
+    <string name="validation_current_password">Current password not valid.</string>
+    <string name="length_current_password">Current password at least 6 character.</string>
+
+    <string name="label_new_password">New password</string>
+    <string name="hint_new_password">New password</string>
+    <string name="validation_new_password">New password not valid.</string>
+    <string name="length_new_password">New password at least 6 character.</string>
+
+    <string name="label_new_confirm_password">New confirm password</string>
+    <string name="hint_new_confirm_password">New confirm password</string>
+    <string name="validation_new_confirm_password">New confirm password not valid.</string>
+    <string name="match_not_new_password">New password not match.</string>
+    <string name="confirm_new_password">New confirm password at least 6 character.</string>
+
+    <string name="label_confirm_password">Confirm password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="validation_confirm_password">Confirm password not valid.</string>
+    <string name="match_not_password">Password not match.</string>
+    <string name="confirm_password">Confirm password at least 6 character.</string>
+
+    <string name="label_mobile_no">Mobile no.</string>
+    <string name="hin_mobile_no">Mobile no.</string>
+    <string name="validation__mobile_no">Mobile no. not valid.</string>
+
+    <string name="label_address">Address</string>
+    <string name="hint_address">Address</string>
+
+
+    <string name="hinaddress">Address</string>
+
+    <string name="label_forgot_password">Forgot password?</string>
+    <string name="label_without_login">Without Login</string>
+
+    <string name="enter_email_password">Enter email and password.</string>
+</resources>

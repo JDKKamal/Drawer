@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#056CAF</color>
+    <color name="colorPrimaryDark">#056CAF</color>
+    <color name="colorAccent">#3F51B5</color>
+
+    <color name="colorToolBar">#056CAF</color>
+    <color name="colorProgressbar">#F7A718</color>
+    <color name="colorBGDrawerHeader">#056CAF</color>
+
+    <color name="colorButtonCompleteState">#19CC95</color>
+    <color name="colorProgressIndicatorBackground">#BBBBBB</color>
+    <color name="colorStroke">#19CC95</color>
+
+    <color name="colorBackground">#056CAF</color>
+    <color name="colorBackgroundAll">#E5EFF7</color>
+
+    <color name="colorButtomMain">#DF533C</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#056CAF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGreen">#6CC417</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorYellow">#F7A718</color>
+
+    <color name="colorTitlebar">#F7C28E</color>
+
+    <color name="colorTintImage">#8D8D8D</color>
+    <color name="colorTextDefault">#8D8D8D</color>
+    <color name="colorTextNewSignup">#F7A718</color>
+
+    <color name="colorButton">#CCABABAB</color>
+    <color name="colorButtonWithoutLogin">#1AF7C28E</color>
+    <color name="colorButtonWithoutLogout">#0Dff0000</color>
+
+    <color name="colorRattingbarEnable">#A6FFB200</color>
+    <color name="colorRattingbarDisable">#DF533C</color>
+
+    <color name="colorFacebook">#264E96</color>
+    <color name="colorGoogle">#264E96</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="tintColorWhite">#FFFFFF</color>
+
+
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+
+</resources>

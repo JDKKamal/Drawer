@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorWhite</item>
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <item name="android:background">@color/colorTintImage</item>
+        <item name="android:textSize">@dimen/textsize_15</item>
+    </style>
+
+    <!--<style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/colorRattingbarDisable</item>
+        <item name="colorControlActivated">@color/colorRattingbarEnable</item>
+    </style>
+
+    <style name="Style_TabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/colorBlack</item>
+        <item name="tabBackground">@drawable/tab</item>
+        <item name="tabSelectedTextColor">@color/colorBlack</item>
+    </style>-->
+
+    <style name="MaterialDialogSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <!--<item name="android:windowAnimationStyle">@style/MaterialDialogSheetAnimation</item>-->
+    </style>
+
+    <!-- <style name="MaterialDialogSheetAnimation">
+         <item name="android:windowEnterAnimation">@anim/pop_hide</item>
+         <item name="android:windowExitAnimation">@anim/pop_show</item>
+     </style>-->
+
+    <style name="ProgressBarTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorProgressbar</item>
+    </style>
+
+</resources>
